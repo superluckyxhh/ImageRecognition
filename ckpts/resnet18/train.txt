@@ -1,0 +1,200 @@
+Epoch:0   Mean loss:1.3794063329696655
+Epoch:0   Accuary:0.6111
+Epoch:1   Mean loss:0.9794294834136963
+Epoch:1   Accuary:0.6805
+Epoch:2   Mean loss:0.8050239086151123
+Epoch:2   Accuary:0.7094
+Epoch:3   Mean loss:0.6844485402107239
+Epoch:3   Accuary:0.7291
+Epoch:4   Mean loss:0.5798241496086121
+Epoch:4   Accuary:0.7437
+Epoch:5   Mean loss:0.48960474133491516
+Epoch:5   Accuary:0.7478
+Epoch:6   Mean loss:0.41100433468818665
+Epoch:6   Accuary:0.7467
+Epoch:7   Mean loss:0.3340780436992645
+Epoch:7   Accuary:0.7488
+Epoch:8   Mean loss:0.27198806405067444
+Epoch:8   Accuary:0.751
+Epoch:9   Mean loss:0.2276645004749298
+Epoch:9   Accuary:0.749
+Epoch:10   Mean loss:0.17774464190006256
+Epoch:10   Accuary:0.7486
+Epoch:11   Mean loss:0.14858442544937134
+Epoch:11   Accuary:0.7515
+Epoch:12   Mean loss:0.12858892977237701
+Epoch:12   Accuary:0.7648
+Epoch:13   Mean loss:0.11823301762342453
+Epoch:13   Accuary:0.7455
+Epoch:14   Mean loss:0.1055012047290802
+Epoch:14   Accuary:0.7609
+Epoch:15   Mean loss:0.09636760503053665
+Epoch:15   Accuary:0.7571
+Epoch:16   Mean loss:0.09033720940351486
+Epoch:16   Accuary:0.7582
+Epoch:17   Mean loss:0.0807783380150795
+Epoch:17   Accuary:0.7575
+Epoch:18   Mean loss:0.06799033284187317
+Epoch:18   Accuary:0.7576
+Epoch:19   Mean loss:0.07449053227901459
+Epoch:19   Accuary:0.7597
+Epoch:20   Mean loss:0.07296839356422424
+Epoch:20   Accuary:0.7589
+Epoch:21   Mean loss:0.0645318403840065
+Epoch:21   Accuary:0.768
+Epoch:22   Mean loss:0.05928003415465355
+Epoch:22   Accuary:0.767
+Epoch:23   Mean loss:0.059363946318626404
+Epoch:23   Accuary:0.7643
+Epoch:24   Mean loss:0.047999948263168335
+Epoch:24   Accuary:0.7597
+Epoch:25   Mean loss:0.0613313689827919
+Epoch:25   Accuary:0.758
+Epoch:26   Mean loss:0.054075174033641815
+Epoch:26   Accuary:0.7571
+Epoch:27   Mean loss:0.0510004423558712
+Epoch:27   Accuary:0.7629
+Epoch:28   Mean loss:0.043823760002851486
+Epoch:28   Accuary:0.7675
+Epoch:29   Mean loss:0.04703504964709282
+Epoch:29   Accuary:0.7609
+Epoch:30   Mean loss:0.042737022042274475
+Epoch:30   Accuary:0.7626
+Epoch:31   Mean loss:0.04202662780880928
+Epoch:31   Accuary:0.7643
+Epoch:32   Mean loss:0.042423464357852936
+Epoch:32   Accuary:0.7638
+Epoch:33   Mean loss:0.03604202717542648
+Epoch:33   Accuary:0.7667
+Epoch:34   Mean loss:0.04010942578315735
+Epoch:34   Accuary:0.7687
+Epoch:35   Mean loss:0.03742989897727966
+Epoch:35   Accuary:0.763
+Epoch:36   Mean loss:0.03646206855773926
+Epoch:36   Accuary:0.765
+Epoch:37   Mean loss:0.03727841004729271
+Epoch:37   Accuary:0.7646
+Epoch:38   Mean loss:0.03266645967960358
+Epoch:38   Accuary:0.7604
+Epoch:39   Mean loss:0.0362294539809227
+Epoch:39   Accuary:0.759
+Epoch:40   Mean loss:0.03494372218847275
+Epoch:40   Accuary:0.7696
+Epoch:41   Mean loss:0.030574679374694824
+Epoch:41   Accuary:0.766
+Epoch:42   Mean loss:0.03424925357103348
+Epoch:42   Accuary:0.7631
+Epoch:43   Mean loss:0.024719838052988052
+Epoch:43   Accuary:0.76
+Epoch:44   Mean loss:0.03222030773758888
+Epoch:44   Accuary:0.7614
+Epoch:45   Mean loss:0.027750270441174507
+Epoch:45   Accuary:0.7658
+Epoch:46   Mean loss:0.03212544694542885
+Epoch:46   Accuary:0.7611
+Epoch:47   Mean loss:0.031769536435604095
+Epoch:47   Accuary:0.7726
+Epoch:48   Mean loss:0.023572148755192757
+Epoch:48   Accuary:0.7727
+Epoch:49   Mean loss:0.025034170597791672
+Epoch:49   Accuary:0.7679
+Epoch:50   Mean loss:0.027657276019454002
+Epoch:50   Accuary:0.7662
+Epoch:51   Mean loss:0.023468371480703354
+Epoch:51   Accuary:0.77
+Epoch:52   Mean loss:0.026692207902669907
+Epoch:52   Accuary:0.7688
+Epoch:53   Mean loss:0.025043362751603127
+Epoch:53   Accuary:0.7652
+Epoch:54   Mean loss:0.0240902379155159
+Epoch:54   Accuary:0.769
+Epoch:55   Mean loss:0.022965023294091225
+Epoch:55   Accuary:0.7674
+Epoch:56   Mean loss:0.026844291016459465
+Epoch:56   Accuary:0.7712
+Epoch:57   Mean loss:0.016666218638420105
+Epoch:57   Accuary:0.7701
+Epoch:58   Mean loss:0.02540346421301365
+Epoch:58   Accuary:0.7623
+Epoch:59   Mean loss:0.02249997667968273
+Epoch:59   Accuary:0.765
+Epoch:60   Mean loss:0.022358842194080353
+Epoch:60   Accuary:0.7768
+Epoch:61   Mean loss:0.01948203518986702
+Epoch:61   Accuary:0.7642
+Epoch:62   Mean loss:0.024117982015013695
+Epoch:62   Accuary:0.7625
+Epoch:63   Mean loss:0.02460363879799843
+Epoch:63   Accuary:0.7682
+Epoch:64   Mean loss:0.01852228492498398
+Epoch:64   Accuary:0.771
+Epoch:65   Mean loss:0.01877460442483425
+Epoch:65   Accuary:0.7635
+Epoch:66   Mean loss:0.020583990961313248
+Epoch:66   Accuary:0.7724
+Epoch:67   Mean loss:0.015573129057884216
+Epoch:67   Accuary:0.7738
+Epoch:68   Mean loss:0.021949253976345062
+Epoch:68   Accuary:0.7673
+Epoch:69   Mean loss:0.021261002868413925
+Epoch:69   Accuary:0.763
+Epoch:70   Mean loss:0.01543450728058815
+Epoch:70   Accuary:0.7748
+Epoch:71   Mean loss:0.014958810992538929
+Epoch:71   Accuary:0.7728
+Epoch:72   Mean loss:0.020048970356583595
+Epoch:72   Accuary:0.7704
+Epoch:73   Mean loss:0.016137870028614998
+Epoch:73   Accuary:0.765
+Epoch:74   Mean loss:0.02049066498875618
+Epoch:74   Accuary:0.774
+Epoch:75   Mean loss:0.01882043294608593
+Epoch:75   Accuary:0.7746
+Epoch:76   Mean loss:0.011581424623727798
+Epoch:76   Accuary:0.767
+Epoch:77   Mean loss:0.02190425433218479
+Epoch:77   Accuary:0.7688
+Epoch:78   Mean loss:0.01622852310538292
+Epoch:78   Accuary:0.7739
+Epoch:79   Mean loss:0.018915953114628792
+Epoch:79   Accuary:0.7665
+Epoch:80   Mean loss:0.012240988202393055
+Epoch:80   Accuary:0.7681
+Epoch:81   Mean loss:0.009444459341466427
+Epoch:81   Accuary:0.7772
+Epoch:82   Mean loss:0.02068951539695263
+Epoch:82   Accuary:0.7707
+Epoch:83   Mean loss:0.01871701143682003
+Epoch:83   Accuary:0.7685
+Epoch:84   Mean loss:0.012358274310827255
+Epoch:84   Accuary:0.77
+Epoch:85   Mean loss:0.012082234025001526
+Epoch:85   Accuary:0.7645
+Epoch:86   Mean loss:0.016657575964927673
+Epoch:86   Accuary:0.7663
+Epoch:87   Mean loss:0.01525566354393959
+Epoch:87   Accuary:0.7638
+Epoch:88   Mean loss:0.012488828040659428
+Epoch:88   Accuary:0.7683
+Epoch:89   Mean loss:0.01652565412223339
+Epoch:89   Accuary:0.7702
+Epoch:90   Mean loss:0.014432852156460285
+Epoch:90   Accuary:0.7736
+Epoch:91   Mean loss:0.015936341136693954
+Epoch:91   Accuary:0.7733
+Epoch:92   Mean loss:0.012383741326630116
+Epoch:92   Accuary:0.7636
+Epoch:93   Mean loss:0.02050909772515297
+Epoch:93   Accuary:0.7708
+Epoch:94   Mean loss:0.012222139164805412
+Epoch:94   Accuary:0.7718
+Epoch:95   Mean loss:0.009870288893580437
+Epoch:95   Accuary:0.772
+Epoch:96   Mean loss:0.015485142357647419
+Epoch:96   Accuary:0.7722
+Epoch:97   Mean loss:0.010947289876639843
+Epoch:97   Accuary:0.7724
+Epoch:98   Mean loss:0.011914120987057686
+Epoch:98   Accuary:0.7702
+Epoch:99   Mean loss:0.013932710513472557
+Epoch:99   Accuary:0.7703
